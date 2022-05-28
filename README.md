@@ -20,7 +20,7 @@ Zurky#0522
 <img align="left" alt="Visual Studio Code" width="30vw" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="30vw" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="typescript" width="30vw" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Lua" width="30vw" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
+<img align="left" alt="Lua" width="30vw" src="https://cdn.discordapp.com/attachments/781638329631768607/980133560973410394/lua.png" />
 <img align="left" alt="Node.js" width="40vw" src="https://cdn.discordapp.com/attachments/781638329631768607/980131521589551114/image-removebg-preview_3.png" />
 <img align="left" alt="MySQL" width="30vw" src="https://cdn.discordapp.com/attachments/781638329631768607/980130852304461824/image-removebg-preview_2.png" />
 <img align="left" alt="MariaDB" width="30vw" src="https://developer.fedoraproject.org/static/logo/mariadb.png" />
