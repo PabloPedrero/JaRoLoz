@@ -24,7 +24,7 @@ Zurky#0522
 <img align="left" alt="Node.js" width="40vw" src="https://cdn.discordapp.com/attachments/781638329631768607/980131521589551114/image-removebg-preview_3.png" />
 <img align="left" alt="MySQL" width="30vw" src="https://cdn.discordapp.com/attachments/781638329631768607/980130852304461824/image-removebg-preview_2.png" />
 <img align="left" alt="MariaDB" width="30vw" src="https://developer.fedoraproject.org/static/logo/mariadb.png" />
-<img align="left" alt="Git" width="30vw" src="http://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" />
+<img align="left" alt="Git" width="30vw" src="https://user-images.githubusercontent.com/40668121/170832378-0805e33e-98cf-404a-9e62-211729b114bb.png" />
 <img align="left" alt="GitHub" width="30vw" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 
 <br />
