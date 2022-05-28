@@ -1,16 +1,30 @@
-### Hi there 👋
+### Greetings my name is Zurky 🤝
 
-<!--
-**JaRoLoz/JaRoLoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I´m (still) a teen that is really into back-end developping
 
-Here are some ideas to get you started:
+- 📖 I’m currently learning TypeScript.
+- 😈 I hate front-end developping, although one day I´ll need to learn more about it.
+- 😢 I haven´t made any open source projects because I´m really lazy.
+- 💪 Future goals: Learn Rust and contibute on open source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My socials:
+
+<img width="30vw" align="left" src="https://cdn.discordapp.com/attachments/781638329631768607/980129885366411264/download-removebg-preview_1.png" />
+Zurky#0522
+
+
+<br />
+
+### My most used tools and languages:
+
+<img align="left" alt="Visual Studio Code" width="30vw" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="JavaScript" width="30vw" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="typescript" width="30vw" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Lua" width="30vw" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
+<img align="left" alt="Node.js" width="40vw" src="https://cdn.discordapp.com/attachments/781638329631768607/980131521589551114/image-removebg-preview_3.png" />
+<img align="left" alt="MySQL" width="30vw" src="https://cdn.discordapp.com/attachments/781638329631768607/980130852304461824/image-removebg-preview_2.png" />
+<img align="left" alt="MariaDB" width="30vw" src="https://developer.fedoraproject.org/static/logo/mariadb.png" />
+<img align="left" alt="Git" width="30vw" src="http://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" />
+<img align="left" alt="GitHub" width="30vw" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+
+<br />
