@@ -5,7 +5,7 @@
 - 📖 I’m currently learning TypeScript.
 - 😈 I hate front-end developping, although one day I´ll need to learn more about it.
 - 😢 I haven´t made any open source projects because I´m really lazy.
-- 💪 Future goals: Learn Rust and contibute on open source projects.
+- 💪 Future goals: Learn Rust and contibute to open source projects.
 
 ### My socials:
 
