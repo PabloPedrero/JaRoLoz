@@ -2,8 +2,8 @@
 
 ## I´m (still) a teen that is really into back-end developping
 
-- 📖 I’m currently learning TypeScript.
-- 😈 I hate front-end developping, although one day I´ll need to learn more about it.
+- 🥵 My favourite languages is JavaScript and TypeScript
+- 📖 I’m currently learning Svelte.
 - 😢 I haven´t made any open source projects because I´m really lazy.
 - 💪 Future goals: Learn Rust and contibute to open source projects.
 
@@ -18,6 +18,7 @@ Zurky#0522
 ### My most used tools and languages:
 
 <img align="left" alt="Visual Studio Code" width="30vw" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Svelte" width="30vw" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" />
 <img align="left" alt="JavaScript" width="30vw" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="typescript" width="30vw" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Lua" width="30vw" src="https://cdn.discordapp.com/attachments/781638329631768607/980133560973410394/lua.png" />
