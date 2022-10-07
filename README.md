@@ -2,7 +2,7 @@
 
 ## I´m (still) a teen that is really into back-end developping
 
-- 🥵 My favourite languages is JavaScript and TypeScript
+- 🥵 My favourite languages are JavaScript, and TypeScript (I only use it whenever I´m tired of JavaScript´s stupid type system)
 - 📖 I’m currently learning Svelte.
 - 😢 I haven´t made any open source projects because I´m really lazy.
 - 💪 Future goals: Learn Rust and contibute to open source projects.
