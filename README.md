@@ -9,7 +9,7 @@
 ### My socials:
 
 <img width="30vw" align="left" src="https://cdn.discordapp.com/attachments/781638329631768607/980129885366411264/download-removebg-preview_1.png" />
-Zurky#0522
+@erzurkynene (Zurky#0522)
 
 
 <br />
