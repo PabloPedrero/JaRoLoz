@@ -8,7 +8,7 @@
 
 ### My socials:
 
-<img width="30vw" align="left" src="[https://cdn.discordapp.com/attachments/781638329631768607/980129885366411264/download-removebg-preview_1.png](https://github.com/user-attachments/assets/ed349577-a16e-4c0a-8513-a8ab15fb2e76)" />
+<img width="30vw" align="left" src="https://github.com/user-attachments/assets/ed349577-a16e-4c0a-8513-a8ab15fb2e76" />
 @erzurkynene (Zurky#0522)
 
 <br />
