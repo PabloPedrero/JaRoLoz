@@ -1,4 +1,4 @@
-### Greetings my name is Juan Eduardo 🤝
+### Greetings my name is Pablo Eduardo 🤝
 
 ## I´m (still) a teen that is really into back-end developping
 
